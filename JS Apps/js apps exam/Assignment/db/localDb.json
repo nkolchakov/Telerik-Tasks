@@ -1,0 +1,445 @@
+{
+  "users": [
+    {
+      "username": "Doncho",
+      "password": "1234",
+      "usernameToLower": "doncho",
+      "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+      "authKey": "1miUIcFiq4_gueIE6QT5kHYK0woshtAKMGpqAi1H",
+      "userMaterials": [
+        {
+          "id": "dd707118-fbb0-45e7-b95f-c4ee9c90a6c9",
+          "title": "book #1",
+          "category": "want-to-watch"
+        },
+        {
+          "id": "bde2acbc-0bc2-43d2-a46a-4d3deb0eb7b3",
+          "title": "book #2",
+          "category": "want-to-watch"
+        }
+      ]
+    },
+    {
+      "username": "Doncho3",
+      "password": "1123123234",
+      "usernameToLower": "doncho3",
+      "id": "9b7cce23-db27-43ed-9711-02af4d5c69da"
+    },
+    {
+      "username": "johnnybravo",
+      "password": "mypass123",
+      "usernameToLower": "johnnybravo",
+      "id": "eb02cdd1-8df6-4288-9ea6-4de841cc7057"
+    },
+    {
+      "username": "konnyk",
+      "password": "1234567",
+      "usernameToLower": "konnyk",
+      "id": "2caa8881-302c-45e0-a68e-f3f20414b4cc"
+    },
+    {
+      "username": "nmmmsnfkf",
+      "password": "aslkfjaklsjfwoqjp",
+      "usernameToLower": "nmmmsnfkf",
+      "id": "6c9d68dd-486e-4674-a214-b954d46743fd"
+    },
+    {
+      "username": "asdasdasd",
+      "password": "123123123",
+      "usernameToLower": "asdasdasd",
+      "id": "e285c1a7-1fd6-49bd-ac39-e137da9d00af",
+      "authKey": "ykclZTJbHp3J5H(0auvEv6-WuD3ko@L9xUfcwOqr"
+    },
+    {
+      "username": "nikinikiniki",
+      "password": "6666666",
+      "usernameToLower": "nikinikiniki",
+      "id": "98ec9ad0-278f-48b0-ba34-b07782e05112",
+      "authKey": "ZzvdG2ydXoXz2Y1e1ycY6t7nbIdlJ5Suxclyc@iy"
+    },
+    {
+      "username": "asd123asd",
+      "password": "6666666",
+      "usernameToLower": "asd123asd",
+      "id": "67ad503a-018e-445b-b019-0da4af4ffd22",
+      "authKey": "(15iGkCi42eoXaVpz0sUsHg!iu5f_v5aH8lrtYEp"
+    },
+    {
+      "username": "niki42",
+      "password": "niki42",
+      "usernameToLower": "niki42",
+      "id": "681f145e-aa77-4839-8908-3311873317e0",
+      "authKey": "GTRw90t4!-vF6AHz63fSHmojLeI!e2-_GyLAUN01"
+    },
+    {
+      "username": "niki43",
+      "password": "niki43",
+      "usernameToLower": "niki43",
+      "id": "3222d100-1293-4a66-b241-4f2eb22ef5c8"
+    },
+    {
+      "username": "niki44",
+      "password": "niki44",
+      "usernameToLower": "niki44",
+      "id": "836065db-8f4e-4b1a-ac73-b91e5c016a60"
+    },
+    {
+      "username": "niki45",
+      "password": "niki45",
+      "usernameToLower": "niki45",
+      "id": "d6e23a2e-da06-4163-9a58-be80033ea8bf"
+    },
+    {
+      "username": "niki46",
+      "password": "niki46",
+      "usernameToLower": "niki46",
+      "id": "d5c8c3e5-9dad-4cca-9db4-9f1adc7dc487"
+    },
+    {
+      "username": "niki50",
+      "password": "niki50",
+      "usernameToLower": "niki50",
+      "id": "1bcb4a1b-425a-45ed-b95d-d0b1d1a73597"
+    },
+    {
+      "username": "niki51",
+      "password": "niki51",
+      "usernameToLower": "niki51",
+      "id": "60186cdb-5826-444f-a1d8-93b9c27ba9db"
+    },
+    {
+      "username": "niki55",
+      "password": "niki55",
+      "usernameToLower": "niki55",
+      "id": "7b0ed13e-e58a-4461-87c1-fbf84ff60338"
+    },
+    {
+      "username": "niki56",
+      "password": "niki56",
+      "usernameToLower": "niki56",
+      "id": "a87f7b59-1573-439c-8b18-8c54bc352e82"
+    },
+    {
+      "username": "niki66",
+      "password": "niki66",
+      "usernameToLower": "niki66",
+      "id": "a472035e-3af0-4a22-af24-769c45f1a513",
+      "authKey": "7KeHok)2eYla!oN305SgvoIp3qrOsB8(t7GIKxVj"
+    },
+    {
+      "username": "niki88",
+      "password": "niki88",
+      "usernameToLower": "niki88",
+      "id": "e9959ac4-f8ff-427b-b511-2ee3946c7e7f",
+      "authKey": "ibv8gfkFEPz@Z-B772-9RT4)5yXJOiH7n8KziMGI"
+    },
+    {
+      "username": "niki78",
+      "password": "niki78",
+      "usernameToLower": "niki78",
+      "id": "1a489e59-b779-4f10-9d3f-d0c7d37f4a68",
+      "authKey": "(b2Zh42rtzoYgCnrZZw7U@Nk2QEER2PlIbJuln_R"
+    },
+    {
+      "username": "niki12",
+      "password": "niki12",
+      "usernameToLower": "niki12",
+      "id": "af3a5c2f-87a7-4f6b-b402-0e2afa27cd4c",
+      "authKey": "VVlrRbowTavIcDrWew(AZ5ZM)g58Nct!v(q@OTog"
+    },
+    {
+      "username": "niki13",
+      "password": "niki13",
+      "usernameToLower": "niki13",
+      "id": "2636a082-1dc1-46b3-bd45-1fca84ae08c7",
+      "authKey": "ol9uoKkGo-xUmg9Y!0bDBWEdgavcT4NAwa5oHv)K"
+    }
+  ],
+  "materials": [
+    {
+      "title": "book #1",
+      "description": "The name of the wind",
+      "createdOn": "2016-09-28T12:50:13.612Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "dd707118-fbb0-45e7-b95f-c4ee9c90a6c9"
+    },
+    {
+      "title": "book #2",
+      "description": "JavaScript: The good parts",
+      "createdOn": "2016-09-28T12:50:13.679Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "bde2acbc-0bc2-43d2-a46a-4d3deb0eb7b3"
+    },
+    {
+      "title": "The The tHE...",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:14.271Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "669158cb-63d3-4237-b29f-e7448f65c87f"
+    },
+    {
+      "title": "book #4",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:14.365Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "The poet"
+      },
+      "id": "c042961f-0661-4381-9be9-5de824af2766"
+    },
+    {
+      "title": "book #5",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:14.406Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "cec2f5a5-d79e-41f7-9b5b-fcc364f776f7"
+    },
+    {
+      "title": "book #6",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:14.992Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "cb87a57d-8a7e-4ad6-8594-2b1c9a87cb84"
+    },
+    {
+      "title": "book #7",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:15.055Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "55105362-00ab-4f8c-9d72-eea1d3a28fd3"
+    },
+    {
+      "title": "book #8",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:15.683Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "15925669-ac41-4183-a84b-1bead97d7f49"
+    },
+    {
+      "title": "book #9",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:15.763Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "4d7cc2dd-ef6c-4d26-939b-345ea9874a7f"
+    },
+    {
+      "title": "book #10",
+      "description": "description of book #$i",
+      "createdOn": "2016-09-28T12:50:15.808Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "ffafd855-f6e8-480f-87f8-1ed61fb202fa"
+    },
+    {
+      "title": "It works!",
+      "description": "Should be ok",
+      "createdOn": "2016-10-04T07:43:03.286Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "47f3ae36-6dac-44ce-8684-5a73c9eb1611"
+    },
+    {
+      "title": "It works!",
+      "description": "",
+      "createdOn": "2016-10-04T07:43:20.148Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "17890fff-e311-4196-8346-0d8a57d81e02"
+    },
+    {
+      "title": "It works",
+      "description": "",
+      "createdOn": "2016-10-04T07:43:29.803Z",
+      "rating": 0,
+      "comments": [
+        {
+          "text": "1234",
+          "user": {
+            "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+            "username": "Doncho"
+          }
+        },
+        {
+          "text": "123",
+          "user": {
+            "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+            "username": "Doncho"
+          }
+        },
+        {
+          "text": "comment dis",
+          "user": {
+            "id": "e285c1a7-1fd6-49bd-ac39-e137da9d00af",
+            "username": "asdasdasd"
+          }
+        }
+      ],
+      "user": {
+        "id": "73a58989-5107-46e8-b781-4380f6c1c0b1",
+        "username": "Doncho"
+      },
+      "id": "c4333e8b-cf11-44cb-bc44-bd9e7a5bf1dd"
+    },
+    {
+      "title": "testtesttesst",
+      "description": "naskdnas poasdjp oasjdpo asjdpoajs poasdj po",
+      "img": "https://www.google.bg/search?q=img&espv=2&biw=1366&bih=648&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyo_28vsHPAhVChywKHV2TCdQQ_AUIBigB#imgrc=faJGlBCGu0qR-M%3A",
+      "createdOn": "2016-10-04T15:57:01.011Z",
+      "rating": 0,
+      "comments": [
+        {
+          "text": "comment dis",
+          "user": {
+            "id": "e285c1a7-1fd6-49bd-ac39-e137da9d00af",
+            "username": "asdasdasd"
+          }
+        }
+      ],
+      "user": {
+        "id": "e285c1a7-1fd6-49bd-ac39-e137da9d00af",
+        "username": "asdasdasd"
+      },
+      "id": "b1b02568-7bfd-4ed5-8d39-702f402c47d4"
+    },
+    {
+      "title": "add new matrial",
+      "description": "fjksdj lskdjf lsdjfl ksdjflk sd ",
+      "img": "https://www.google.bg/search?q=img&espv=2&biw=1366&bih=648&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyo_28vsHPAhVChywKHV2TCdQQ_AUIBigB#imgrc=faJGlBCGu0qR-M%3A",
+      "createdOn": "2016-10-04T16:25:40.073Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "98ec9ad0-278f-48b0-ba34-b07782e05112",
+        "username": "nikinikiniki"
+      },
+      "id": "fc2f8ac8-4b6a-4ddf-a490-4baaf0a05b2c"
+    },
+    {
+      "title": "material 2 test",
+      "description": "alsfasdfk;ldsks;dlgk; lskdg;l",
+      "img": "https://media.licdn.com/media/AAEAAQAAAAAAAANbAAAAJDE5NjBkNDk1LTY3ZGQtNDA0NS04YTJiLTdkNmU3NjZiNjI3Mg.png",
+      "createdOn": "2016-10-04T16:26:52.040Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "98ec9ad0-278f-48b0-ba34-b07782e05112",
+        "username": "nikinikiniki"
+      },
+      "id": "6c2d1333-f2c9-4036-ba84-54362af4a63e"
+    },
+    {
+      "title": "material 2 test",
+      "description": "alsfasdfk;ldsks;dlgk; lskdg;l",
+      "img": "https://media.licdn.com/media/AAEAAQAAAAAAAANbAAAAJDE5NjBkNDk1LTY3ZGQtNDA0NS04YTJiLTdkNmU3NjZiNjI3Mg.png",
+      "createdOn": "2016-10-04T16:26:55.121Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "98ec9ad0-278f-48b0-ba34-b07782e05112",
+        "username": "nikinikiniki"
+      },
+      "id": "3b682bfa-9a7e-4110-8453-82e827a98bce"
+    },
+    {
+      "title": "add image with default src",
+      "description": "asda das dasd asd a",
+      "img": "http://bakerhi.com/wp-content/themes/nucleare-pro/images/no-image-box.png",
+      "createdOn": "2016-10-04T16:28:23.290Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "98ec9ad0-278f-48b0-ba34-b07782e05112",
+        "username": "nikinikiniki"
+      },
+      "id": "5450e4c3-777f-41d3-929b-8648e7762589"
+    },
+    {
+      "title": "spam spam spam",
+      "description": "spam spam spam",
+      "img": "http://bakerhi.com/wp-content/themes/nucleare-pro/images/no-image-box.png",
+      "createdOn": "2016-10-04T16:29:12.911Z",
+      "rating": 0,
+      "comments": [
+        {
+          "text": "from asd",
+          "user": {
+            "id": "67ad503a-018e-445b-b019-0da4af4ffd22",
+            "username": "asd123asd"
+          }
+        }
+      ],
+      "user": {
+        "id": "98ec9ad0-278f-48b0-ba34-b07782e05112",
+        "username": "nikinikiniki"
+      },
+      "id": "69c84664-476f-4414-b9f5-b7d4716e0acd"
+    },
+    {
+      "title": "asds material 1",
+      "description": "asdasdasdasdasd",
+      "img": "http://bakerhi.com/wp-content/themes/nucleare-pro/images/no-image-box.png",
+      "createdOn": "2016-10-04T16:35:34.022Z",
+      "rating": 0,
+      "comments": [],
+      "user": {
+        "id": "67ad503a-018e-445b-b019-0da4af4ffd22",
+        "username": "asd123asd"
+      },
+      "id": "47f53120-9ff5-40ce-b851-c3561c8335e6"
+    }
+  ]
+}

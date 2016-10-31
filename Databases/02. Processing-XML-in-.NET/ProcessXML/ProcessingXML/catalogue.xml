@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <album>
+    <name>No Mythologies to follow</name>
+    <artist>Mo</artist>
+    <year>2014</year>
+    <producer>Mo</producer>
+    <price>10</price>
+    <songs>
+      <song>
+        <title>Fire Rides</title>
+        <duration>3:28</duration>
+      </song>
+      <song>
+        <title>Red in The Grey</title>
+        <duration>3:55</duration>
+      </song>
+    </songs>
+  </album>
+<album>
+      <name>Something else</name>
+      <artist>Mo</artist>
+      <year>2017</year>
+      <producer>Mo</producer>
+      <price>35</price>
+      <songs>
+        <song>
+          <title>Track1</title>
+          <duration>3:28</duration>
+        </song>
+        <song>
+          <title>Track2</title>
+          <duration>3:55</duration>
+        </song>
+      </songs>
+    </album>
+  <album>
+    <name>Lethal Injection</name>
+    <artist>Ice Cube</artist>
+    <year>1993</year>
+    <producer>Ice Cube</producer>
+    <price>42</price>
+    <songs>
+      <song>
+        <title>You Know How We Do It</title>
+        <duration>3:52</duration>
+      </song>
+      <song>
+        <title>Ghetto Bird</title>
+        <duration>3:50</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

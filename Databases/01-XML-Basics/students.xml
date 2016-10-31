@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<school>
+  <student>
+    <name>Ivan</name>
+    <sex>Male</sex>
+    <birth_date>10.10.2000</birth_date>
+    <phone>123123225</phone>
+    <email>ivan@mail.com</email>
+    <course>2</course>
+    <specialty>Computer Science</specialty>
+    <faculty_number>4452</faculty_number>
+    <endorsement>what is this</endorsement>
+    <enrollment>
+      <date>2015</date>
+      <exam_score>4.30</exam_score>
+    </enrollment>
+    <taken_exams>
+      <exam>
+        <exam_name>Mathematics</exam_name>
+        <tutor>Peshev</tutor>
+        <score>42.0</score>
+      </exam>
+      <exam>
+        <exam_name>Algorithms</exam_name>
+        <tutor>Popov</tutor>
+        <score>54.3</score>
+      </exam>
+    </taken_exams>
+  </student>
+  <student>
+    <name>Ivan</name>
+    <sex>Male</sex>
+    <birth_date>10.10.2000</birth_date>
+    <phone>123123225</phone>
+    <email>ivan@mail.com</email>
+    <course>2</course>
+    <specialty>Computer Science</specialty>
+    <faculty_number>4452</faculty_number>
+    <endorsement>what is this</endorsement>
+    <enrollment>
+      <date>2015</date>
+      <exam_score>4.30</exam_score>
+    </enrollment>
+    <taken_exams>
+      <exam>
+        <exam_name>Mathematics</exam_name>
+        <tutor>Peshev</tutor>
+        <score>42.0</score>
+      </exam>
+      <exam>
+        <exam_name>Algorithms</exam_name>
+        <tutor>Popov</tutor>
+        <score>54.3</score>
+      </exam>
+    </taken_exams>
+  </student>
+</school>

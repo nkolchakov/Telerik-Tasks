@@ -1,0 +1,68 @@
+{{#if isLogged}}
+        
+{{/if}}
+
+
+<form>
+    <label>Filter: </label>
+    <input type="text" id="filter-by">
+    <button id="filter-btn" class="btn btn-primary">Search</button>
+</form>
+<hr>
+
+{{#if isLogged}}
+    <h3 class='alert-warning'>Make a new material: </h3>
+    <form>
+        <label>title: </label>
+        <input id="material-title" type="text">
+        <br>
+        <label>description: </label>
+        <input type="text" id="material-description">
+        <br>
+        <label>img src: </label>
+        <input type="text" id="material-img">
+        <br>
+        <hr>
+    <button id="create-material" class="btn btn-primary">Create</button>
+    </form>
+{{/if}}
+
+<div style="height:30px"></div>
+
+{{#if result}}
+    <h1 class='alert-success'>Active materials</h1> 
+{{else}}
+    <h1 class='alert-danger'>No materials found !</h1>
+{{/if}}
+
+{{#result}}
+<hr>
+    <h2><a href='#/materials/{{id}}' > {{title}} </a></h2>
+    <p>
+        description: 
+        <strong>
+            {{#if description}} {{description}} {{else}} none {{/if}}
+        </strong>
+    </p>
+    <p>
+        <img style="width:250px" src="{{img}}" alt="">
+    </p>
+    <p>created on: {{createdOn}}</p>
+    <hr>
+    <!-- ../ use parent context so we can use isLogged property, outside result array-->
+    {{#if ../isLogged}}
+        <label>Status: </label>
+        <select  id="chosen-status">
+            <option value="want-to-watch">want to watch</option>
+            <option value="watched">watched</option>
+            <option value="watching">watching</option>
+        </select>
+        <br>
+        <hr>
+    {{/if}}
+
+    {{#if ../isLogged}}
+    <input type="text" id="comment-text">
+    <button id='{{id}}' class="add-comment-btn btn btn-success">Leave Comment</button>
+    {{/if}}
+{{/result}}

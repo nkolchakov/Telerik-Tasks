@@ -1,2 +1,2 @@
 # Telerik-Tasks
-different tasks and exams
+different tasks exercise

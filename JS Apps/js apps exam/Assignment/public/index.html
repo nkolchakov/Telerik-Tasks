@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>DOCUMENT</title>
+    <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.css">
+</head>
+
+<body>
+    <script src="./bower_components/jquery/dist/jquery.js"></script>
+    <script src="./bower_components/handlebars/handlebars.js"></script>
+    <script src="./bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="./bower_components/navigo/lib/navigo.js"></script>
+
+    <script src="./js/router.js"></script>
+    <script src="./js/data.js"></script>
+    <script src="./js/template-loader.js"></script>
+    <script src="./js/main.js"></script>
+    <h1 style="display:inline-block">GoodMats &nbsp</h1>
+
+    <a href="#/home" class='btn btn-success'>Home</a>
+    <a id='login-register-btn' href="#/authenticate" class='btn btn-success'>Login/Register</a>
+    <button id="logout-btn" class="btn btn-success">Logout</button>
+    <p id='welcome-msg' style="float:right"></p>
+    <br>
+    <br>
+    <div id="container"></div>
+
+    <script>
+        (function() {
+            if (localStorage.length >= 2) {
+                $('#logout-btn').show();
+                $('#login-register-btn').hide();
+                $('#welcome-msg').html(welcomeHtml).show();
+            } else {
+                console.log("no local")
+                $('#logout-btn').hide();
+                $('#welcome-msg').hide();
+            }
+        })();
+    </script>
+
+</body>
+
+</html>
